@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589138096 source:c:\users\phoen\desktop\codeblocks\pliczek\main.cpp
+	<iostream>
+	<fstream>
+
